@@ -1,4 +1,4 @@
-//12S25018 - Ribka Sianturi
+// 12S25018 - Ribka Sianturi
 
 import java.util.*;
 import java.lang.Math;
